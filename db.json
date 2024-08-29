@@ -1,0 +1,30 @@
+[{
+    "disc": "This is a question",
+    "id": 1,
+    "ans": 2,
+    "options": ["option1", "option2", "option3", "option4"]
+  },
+  {
+    "disc": "This is another question",
+    "id": 2,
+    "ans": 1,
+    "options": ["red", "blue", "green", "yellow"]
+  },
+  {
+    "disc": "This is the third question",
+    "id": 3,
+    "ans": 2,
+    "options": ["apple", "orange", "banana", "peach"]
+  },
+  {
+    "disc": "This is the fourth question",
+    "id": 4,
+    "ans": 4,
+    "options": ["monkey", "ape", "gorilla", "orangutan"]
+  },
+  {
+    "disc": "This is the fifth question",
+    "id": 5,
+    "ans": 3,
+    "options": ["We", "are", "the", "best"]
+  }]
